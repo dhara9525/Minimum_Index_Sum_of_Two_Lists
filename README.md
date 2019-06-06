@@ -1,5 +1,9 @@
 Source of description: Leetcode
+
 Program: Minimum Index Sum of Two Lists (Lists of Strings)
+
+Visit: https://leetcode.com/problems/minimum-index-sum-of-two-lists/discuss/273936/Accepted-javascript-JS-solution
+
 Submission Detail: 133 / 133 test cases passed.
 
 Suppose Andy and Doris want to choose a restaurant for dinner, and they both have a list of favorite restaurants represented by strings.
